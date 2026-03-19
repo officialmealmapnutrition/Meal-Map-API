@@ -4,7 +4,7 @@
   "menu": [
     {
       "Item": "Big Mac",
-      "Calories": 550.0,
+      "Calories": 550dd,
       "Fat (g)": 30.0,
       "Saturated Fat (g)": 10.0,
       "Cholesterol (mg)": 80.0,
